@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0bd14b1-6aef-4afc-afce-c3671337e1d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="serve" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bZSlLEahpUEnpkziasI0Ufu8Ho" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\26988\WebstormProjects\MyBlogProjectCharge\serve\db" />
+      <recent name="C:\Users\26988\WebstormProjects\MyBlogProjectCharge\serve\session" />
+      <recent name="C:\Users\26988\WebstormProjects\MyBlogProjectCharge\serve" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0bd14b1-6aef-4afc-afce-c3671337e1d8" name="Default Changelist" comment="" />
+      <created>1588838272116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588838272116</updated>
+      <workItem from="1588838273518" duration="3102000" />
+      <workItem from="1588902905452" duration="51000" />
+      <workItem from="1588903137046" duration="3673000" />
+      <workItem from="1588939445383" duration="1219000" />
+      <workItem from="1588984763959" duration="4606000" />
+      <workItem from="1588991370698" duration="1780000" />
+      <workItem from="1589006730725" duration="30000" />
+      <workItem from="1589164991795" duration="2217000" />
+      <workItem from="1589192567113" duration="2924000" />
+      <workItem from="1589243345314" duration="4926000" />
+      <workItem from="1589261854801" duration="1281000" />
+      <workItem from="1589334381612" duration="3083000" />
+      <workItem from="1589366168772" duration="1429000" />
+      <workItem from="1589435206840" duration="9147000" />
+      <workItem from="1589520253452" duration="8596000" />
+      <workItem from="1589606720313" duration="5926000" />
+      <workItem from="1589781187810" duration="1244000" />
+      <workItem from="1589852923036" duration="2548000" />
+      <workItem from="1589880729510" duration="720000" />
+      <workItem from="1589953023266" duration="695000" />
+      <workItem from="1590024027454" duration="4241000" />
+      <workItem from="1593321298617" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589606775044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1589606775044" />
+    <state x="1031" y="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589245441249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1031" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1589245441249" />
+    <state x="753" y="334" key="FileChooserDialogImpl" timestamp="1589520498171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="334" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1589520498171" />
+    <state x="583" y="160" key="SettingsEditor" timestamp="1588988266090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="160" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1588988266090" />
+  </component>
+</project>
