@@ -13,3 +13,5 @@ BlogAdmin是博客后台管理系统
 client运行：npm run serve
 
 server运行：node bin/www （需要MongoDB）
+
+博客上线地址：http://www.ene.cool:2333
